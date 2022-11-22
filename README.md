@@ -1,8 +1,6 @@
 # BarneyLife
 Hi!~ 我是Barney<br>
-來自淡江大學資訊管理學<br>
-目前在玉山資訊處 擔任軟體開發工程師<br>
-工作年資約1~2年<br>
+
 
 主要使用技術：<br>
 後端 ->> java,spring,spring boot,Maven<br>
