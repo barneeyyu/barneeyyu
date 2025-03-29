@@ -1,8 +1,9 @@
-# Hi there 👋
+Hi there 👋
 
-I'm **Barney**, a backend engineer who enjoys building scalable cloud-native systems and experimenting with AI-powered tools.
+I'm **Barney**
 
-I love solving real-world problems, contributing to open source, and sharing what I learn.
+A backend engineer who enjoys building scalable cloud-native systems and experimenting with AI-powered tools.
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/barney-yu-908168199/)
 [![Medium Blog](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@barney30818)
