@@ -1,10 +1,31 @@
-# BarneyLife
-Hi!~ 我是Barney<br>
+# Hi there 👋
 
+I'm **Barney**, a backend engineer who enjoys building scalable cloud-native systems and experimenting with AI-powered tools.
 
-主要使用技術：<br>
-後端 ->> java,spring,spring boot,Maven<br>
-前端 ->> Typescript,Angular<br>
-版控 ->> RTC,gitlab<br>
-資料庫 ->> MSSQL<br>
-開發模式 ->> scrum,DDD,Miro,Jira<br>
+I love solving real-world problems, contributing to open source, and sharing what I learn.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/barney-yu-908168199/)
+[![Medium Blog](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@barney30818)
+
+---
+
+<details>
+<summary>📌 About Me</summary>
+
+- 🧑‍💻 Backend Engineer @ Trend Micro
+- ☁️ Focused on Go, AWS, Kubernetes, PostgreSQL
+- 🤖 Currently building an English translation chatbot on LINE, powered by OpenAI
+- 🧠 Recently built an [AI-powered onboarding assistant](https://youtu.be/YsmAnhXQyxc) using RAG
+- 💬 Enjoy discussing software architecture and system design
+
+</details>
+
+---
+
+## 🧪 Recent Work / Side Projects
+
+- 💬 **English Translator LINE Bot (LINE + OpenAI)**  
+  `→` A bilingual chatbot that translates both Chinese ↔ English using GPT, integrated with LINE Messaging API.  
+  It also summarizes new vocabulary learned each day to help users review effectively.
+
+---
